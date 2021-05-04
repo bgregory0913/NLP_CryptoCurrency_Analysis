@@ -10,12 +10,12 @@ This project uses [NewsAPI.org](https://newsapi.org/) to retrieve the latest new
 
 
 ### Built With:
-    * [Python](https://www.python.org/)
-    * [JupyterNotebook](https://jupyter.org/)
-    * [Pandas](https://pandas.pydata.org/)
-    * [NaturalLanguageToolkit](https://www.nltk.org/)
-    * [spaCy](https://spacy.io/)
-    * [spaCy Visualizers](https://spacy.io/usage/visualizers)
+   * [Python](https://www.python.org/)
+   * [JupyterNotebook](https://jupyter.org/)
+   * [Pandas](https://pandas.pydata.org/)
+   * [NaturalLanguageToolkit](https://www.nltk.org/)
+   * [spaCy](https://spacy.io/)
+   * [spaCy Visualizers](https://spacy.io/usage/visualizers)
 
 
 ### Installation
